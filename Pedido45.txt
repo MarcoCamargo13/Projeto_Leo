@@ -1,0 +1,15 @@
+Pizza Leo Ltda                                   Data/Hora : 03-12-2020 15:07  
+Pedido nº: 45
+Cliente: Marco Camargo
+Telefone: 11992216325
+Endereço de entrega: Rua Agua marinha, 230
+Taxa de entrega: R$ 7,00
+
+ITENS
+QTD  |Produto                                           |Observação                    |Total     
+1    |Broto Chocolate                                   |                              |R$ 22,00
+
+Valor total: R$ 29,00
+Troco para: R$ 0,00
+
+Funcionário: Manutenção
